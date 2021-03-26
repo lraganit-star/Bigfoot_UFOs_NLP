@@ -12,3 +12,9 @@
 
 
 ![Alt Text](pics/ufo.jpeg)
+
+## Steps
+
+Using a shortened dataset
+1. Use BeautifulSoup to parse data
+2. 
