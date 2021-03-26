@@ -12,3 +12,8 @@
 
 
 ![Alt Text](pics/ufo.jpeg)
+
+
+## Steps 
+1. Parsing the bigfoot and ufo data using BeautifulSoup
+2. 
